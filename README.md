@@ -1,4 +1,4 @@
 # Magic_Square
 
-Done in using java 
+Done using java 
 Works with odd numbers only
